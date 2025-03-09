@@ -1,5 +1,3 @@
-Berikut adalah isi Part 1 dari Kamus Besar Bypass WAF dengan penjelasan yang sangat lengkap dan mendetail:
-
 
 ---
 
