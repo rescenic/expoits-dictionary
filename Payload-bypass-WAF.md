@@ -27,6 +27,7 @@ Web Application Firewall (WAF) mulai dikembangkan sebagai tanggapan terhadap men
 
 Meski WAF telah berkembang pesat, masih banyak cara untuk mengelabui dan melewatinya. Inilah yang menjadi fokus utama dari dokumen ini.
 
+![17415598201674724311731154894227](https://github.com/user-attachments/assets/40a68047-7bbc-4e51-a378-a032143df61d)
 
 ---
 
