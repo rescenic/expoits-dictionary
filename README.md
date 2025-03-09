@@ -4,6 +4,7 @@
 Web Application Firewall (WAF) adalah sistem keamanan yang dirancang untuk melindungi aplikasi web dari serangan umum seperti SQL Injection, Cross-Site Scripting (XSS), Remote Code Execution (RCE), dan lainnya. Namun, banyak teknik telah dikembangkan untuk **membypass** atau melewati perlindungan WAF, memungkinkan penyerang untuk tetap menembus sistem.
 
 **Dokumen ini merupakan ensiklopedia mendalam tentang bypass WAF**, mulai dari dasar-dasar cara kerja WAF hingga teknik eksploitasi lanjutan.
+![17415599865815641054437477719343](https://github.com/user-attachments/assets/95148854-9b20-4f2a-b37f-b150e2e3b65b)
 
 ---
 
