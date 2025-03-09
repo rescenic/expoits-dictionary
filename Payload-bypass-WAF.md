@@ -62,11 +62,13 @@ Kelemahan:
 Contoh Bypass:
 
 Menggunakan teknik randomization untuk mengubah pola serangan:
+```
+SeLeCt * FrOm users WhErE username='admin'
+```
+--
 
-SeLeCt * FrOm users WhErE username='admin' --
 
-
-3. AI & Machine Learning-Based WAF
+## 3. AI & Machine Learning-Based WAF
 
 WAF modern menggunakan AI untuk menganalisis pola trafik dan membedakan antara trafik normal dan berbahaya.
 
