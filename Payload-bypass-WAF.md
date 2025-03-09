@@ -34,12 +34,12 @@ Meski WAF telah berkembang pesat, masih banyak cara untuk mengelabui dan melewat
 
 Secara umum, WAF bekerja dengan beberapa metode utama:
 
-1. Signature-Based Detection
+## 1. Signature-Based Detection
 
 WAF berbasis signature mendeteksi serangan dengan mencocokkan pola payload berbahaya yang telah diketahui sebelumnya.
 
 Kelemahan:
-✅ Mudah dibypass dengan encoding, obfuscation, dan payload mutation karena hanya mendeteksi pola tetap.
+**✅ Mudah dibypass dengan encoding, obfuscation, dan payload mutation karena hanya mendeteksi pola tetap.**
 
 Contoh Bypass:
 
@@ -52,7 +52,7 @@ Payload setelah diobfuscate (URL encoding):
 %27%20OR%201%3D1%20--
 ```
 
-2. Anomaly-Based Detection
+## 2. Anomaly-Based Detection
 
 WAF jenis ini menggunakan Machine Learning dan analisis perilaku untuk mendeteksi aktivitas mencurigakan berdasarkan pola trafik.
 
@@ -75,7 +75,7 @@ Kelemahan:
 
 Contoh Bypass:
 
-Menggunakan adversarial ML untuk membuat payload yang terlihat normal:
+**Menggunakan adversarial ML untuk membuat payload yang terlihat normal:**
 ```
 import random
 payloads = ["' OR 1=1 --", "<script>alert(1)</script>", "; ls -la"]
