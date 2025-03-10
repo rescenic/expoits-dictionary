@@ -229,9 +229,3 @@ Tabel berikut menunjukkan hasil perhitungan untuk setiap teknik mutation menggun
 - **Mutation paling efektif:** **Quantum Mutation (Quze) dan AI-Generated Payload** karena memiliki skor efektivitas tertinggi.  
 - **Mutation yang masih ampuh:** **Nested Obfuscation dan Double URL Encoding** juga masih memiliki skor tinggi untuk bypass WAF.  
 - **Mutation kurang efektif:** **Comment Injection dan Reverse String** karena mudah dikenali oleh WAF modern.  
-
-**🔗 Apa langkah selanjutnya?**  
-- **Menguji perhitungan dengan dataset nyata** dari serangan terhadap WAF berbasis AI.  
-- **Mengembangkan algoritma otomatis** untuk memilih mutation payload terbaik dalam setiap serangan.  
-- **Membuat payload dinamis yang berubah otomatis** berdasarkan feedback dari sistem keamanan target.  
-
