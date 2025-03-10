@@ -258,6 +258,4 @@ kerberoast.py -dc-ip 192.168.1.100 -user target
 💡 **Mau belajar lebih lanjut? Gabung ke CyberHeroes!** 🚀  
 🔗 **[CyberHeroes Community](https://chat.whatsapp.com/JJCwRcmcmHf4HBNhqjYvuK)**  
 🔗 **[GitHub Exploit Dictionary](https://github.com/Cyberheroess/Comprehensive-Exploit-Dictionary/blob/main/Payload-mutation.md)**  
-```
 
----
