@@ -133,7 +133,6 @@ Mitigasi: Implementasi MFA & disable NTLM Authentication
 
 ---
 
-```md
 # 🔥 Red Teaming - Perbandingan Teknik & Eksekusi 🔥  
 
 ## 🛠️ 1. Perbandingan Metode Red Teaming  
