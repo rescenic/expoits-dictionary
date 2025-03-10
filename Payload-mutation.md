@@ -605,15 +605,8 @@ Berikut adalah **grafik probabilitas deteksi Zero-Day dibanding exploit biasa**:
 
 📌 **Grafik Perbandingan Deteksi Zero-Day vs Exploit Lama**  
 
-```
-Exploit Lama  | ⚫⚫⚫⚫⚫⚫⚫⚫⚫⚫⚫⚫⚫⚫⚫⚫⚫⚫⚫⚫ (90% terdeteksi)
-              | ⚫⚫⚫⚫⚫⚫⚫⚫⚫⚫⚫⚫⚫⚫⚫⚫ (85% terdeteksi)
-Zero-Day      | ⚫⚫⚫⚫ (15% terdeteksi)
-              | ⚫⚫⚫ (10% terdeteksi)
-              ----------------------------------
-                    10    20    30    40    50  %
-                    (Semakin kecil semakin bagus)
-```
+![17415709970067505634925259817388](https://github.com/user-attachments/assets/d70362f7-6176-4a53-8251-c762339f1a54)
+
 
 ---
 
