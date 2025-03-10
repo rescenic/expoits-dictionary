@@ -178,9 +178,8 @@ Tabel berikut menampilkan **nilai perhitungan matematis** dari berbagai teknik P
 
 Untuk menganalisis efektivitas mutasi payload, kita bisa menggunakan **rumus kombinasi faktor keamanan payload**:  
 
-\[
-S_{payload} = \frac{(H + C + K) \times B}{E}
-\]
+![17415695925998764924464683551789](https://github.com/user-attachments/assets/399d9458-2a61-4ec7-b9aa-e3d70e22e8aa)
+
 
 Dimana:  
 - **S_payload** = Skor efektivitas payload.  
@@ -201,18 +200,8 @@ Kita ambil contoh **Base64 Obfuscation**:
 - **E = 85% (0.85)**  
 
 Maka perhitungannya:  
-\[
-S_{Base64} = \frac{(7.8 + 7.5 + 5.2) \times 0.95}{0.85}
-\]
-\[
-= \frac{(20.5) \times 0.95}{0.85}
-\]
-\[
-= \frac{19.475}{0.85}
-\]
-\[
-= 22.9
-\]
+![1741569679546194661603959488831](https://github.com/user-attachments/assets/c2f266f7-1a33-4dc6-b44b-c6dfd73bd3c3)
+
 
 **Skor Efektivitas Payload Base64 = 22.9**  
 
