@@ -1,4 +1,4 @@
-# Kamus Besar Bypass WAF 
+# Kamus Besar Bypass WAF.
 
 ## 📌 Pendahuluan
 Web Application Firewall (WAF) adalah sistem keamanan yang dirancang untuk melindungi aplikasi web dari serangan umum seperti SQL Injection, Cross-Site Scripting (XSS), Remote Code Execution (RCE), dan lainnya. Namun, banyak teknik telah dikembangkan untuk **membypass** atau melewati perlindungan WAF, memungkinkan penyerang untuk tetap menembus sistem.
