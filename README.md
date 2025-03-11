@@ -3,9 +3,7 @@
 # disclamer
 - ### ❗❗ Semua informasi dalam kamus ini sepenuhnya merupakan opini pribadi yang ditulis dan dipahami berdasarkan perspektif saya sendiri. Oleh karena itu, terdapat kemungkinan bahwa beberapa informasi yang disajikan mungkin kurang akurat atau tidak sepenuhnya tepat. ❗❗
 
-> jika terdapat informasi yang bersifat kontroversial atau memerlukan koreksi, silakan ajukan pull request.
-
-
+> jika terdapat informasi yang bersifat kontroversial atau memerlukan koreksi, silakan ajukan pull request. Saya hanyalah manusia biasa yang tidak luput dari kesalahan 🙃
 
 ## 📌 Pendahuluan
 Web Application Firewall (WAF) adalah sistem keamanan yang dirancang untuk melindungi aplikasi web dari serangan umum seperti SQL Injection, Cross-Site Scripting (XSS), Remote Code Execution (RCE), dan lainnya. Namun, banyak teknik telah dikembangkan untuk **membypass** atau melewati perlindungan WAF, memungkinkan penyerang untuk tetap menembus sistem.
