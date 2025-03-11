@@ -1,7 +1,7 @@
 # Kamus Besar Bypass WAF.
 
 # disclamer
-- ## ❗❗ Semua informasi dalam kamus ini sepenuhnya merupakan opini pribadi yang ditulis dan dipahami berdasarkan perspektif saya sendiri. Oleh karena itu, terdapat kemungkinan bahwa beberapa informasi yang disajikan mungkin kurang akurat atau tidak sepenuhnya tepat. ❗❗
+- ### ❗❗ Semua informasi dalam kamus ini sepenuhnya merupakan opini pribadi yang ditulis dan dipahami berdasarkan perspektif saya sendiri. Oleh karena itu, terdapat kemungkinan bahwa beberapa informasi yang disajikan mungkin kurang akurat atau tidak sepenuhnya tepat. ❗❗
 
 > jika terdapat informasi yang bersifat kontroversial atau memerlukan koreksi, silakan ajukan pull request.
 
