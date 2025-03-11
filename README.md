@@ -1,6 +1,6 @@
 # Kamus Besar Bypass WAF.
 
-# *disclamer* 
+# *disclamer⚠️* 
 - ### ❗❗ semua yang ada di kamus ini sepenuh nya spesifik pendapat pribadi di tulis dan di cerna oleh saya pribadi jadi ada kemungkinana informasi yang di tulis kurang tepat❗❗ 
 
 ## 📌 Pendahuluan
