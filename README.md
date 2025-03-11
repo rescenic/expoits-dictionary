@@ -1,7 +1,11 @@
 # Kamus Besar Bypass WAF.
 
-# *disclamer⚠️* 
-- ### ❗❗ semua yang ada di kamus ini sepenuh nya spesifik pendapat pribadi di tulis dan di cerna oleh saya pribadi jadi ada kemungkinana informasi yang di tulis kurang tepat❗❗ 
+# disclamer
+- ## ❗❗ Semua informasi dalam kamus ini sepenuhnya merupakan opini pribadi yang ditulis dan dipahami berdasarkan perspektif saya sendiri. Oleh karena itu, terdapat kemungkinan bahwa beberapa informasi yang disajikan mungkin kurang akurat atau tidak sepenuhnya tepat. ❗❗
+
+> jika terdapat informasi yang bersifat kontroversial atau memerlukan koreksi, silakan ajukan pull request.
+
+
 
 ## 📌 Pendahuluan
 Web Application Firewall (WAF) adalah sistem keamanan yang dirancang untuk melindungi aplikasi web dari serangan umum seperti SQL Injection, Cross-Site Scripting (XSS), Remote Code Execution (RCE), dan lainnya. Namun, banyak teknik telah dikembangkan untuk **membypass** atau melewati perlindungan WAF, memungkinkan penyerang untuk tetap menembus sistem.
